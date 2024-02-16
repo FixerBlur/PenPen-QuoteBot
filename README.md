@@ -44,3 +44,23 @@ BOT_TOKEN='your token her'
  ```sh
 admins = [your telegram id here]
  ```
+4. Finish. The bot is launched through the bot.py file
+
+## 🔥 Usage
+
+Add a bot as a member to your group or chat
+After that, select the message from which you want to make a quote, click reply to it and send the /c command
+
+Example: `/c`
+
+The bot will send a message with a photo and text of the message you have chosen and its author
+
+> [!NOTE]
+> The bot does not need to be granted administrator rights, it just needs to have access to sending messages and media
+
+If you don't succeed in granting rights to a bot, the easiest option is to give it an administrator
+
+> [!NOTE]
+> You can grant rights by right-clicking on the user (bot), then restrict the user and there should be checkboxes related to sending messages and media
+
+<hr/>
