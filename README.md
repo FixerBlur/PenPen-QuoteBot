@@ -80,3 +80,4 @@ You can support me financially, I will be very grateful!
   <a href="https://www.buymeacoffee.com/fixerblur">
     <img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/coffee.webp" alt="Logo">
   </a>
+</div>
