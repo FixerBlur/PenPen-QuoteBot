@@ -77,6 +77,6 @@ If you don't succeed in granting rights to a bot, the easiest option is to give 
 ## 🍩 Support
 <div align="center">
   <a href="https://www.buymeacoffee.com/fixerblur">
-    <img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/coffee_two.gif" alt="Logo">
+    <img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/coffee.webp" alt="Logo">
   </a>
 </div>
