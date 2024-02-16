@@ -13,7 +13,7 @@
 
 ## ℹ️ About The Project
 
-<img src="file_readme/screen.jph"></img>
+<img src="file_readme/screen.jpg"></img>
 
 This bot can turn the text of your interlocutor in a chat or group into a quote on a photo. 
 You need to press "reply" to the desired message and send it with the text "/c" and then the bot will send a photo with the text of the message you have chosen 
