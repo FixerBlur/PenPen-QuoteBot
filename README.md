@@ -3,15 +3,15 @@
     <img src="file_readme/background.jpg" alt="Logo">
   </a>
 
-<h3 align="center">😺 PenPen</h3>
+<h3 align="center">🐧PenPen</h3>
 
   <p align="center">
-    Your favorite quote in photo😊
+    Your favorite quote in photo
     <br />
   </p>
 </div>
 
-## ℹ️ About The Project
+## 🔥 About The Project
 
 <img src="file_readme/screen.jpg"></img>
 
@@ -20,7 +20,7 @@ You need to press "reply" to the desired message and send it with the text "/c" 
 
 <hr>
 
-## 🧧 Initial Setup
+## ⚙️ Initial Setup
 
 1. Install the necessary libraries, modules, and other project dependencies
 
@@ -46,7 +46,7 @@ admins = [your telegram id here]
  ```
 4. Finish. The bot is launched through the bot.py file
 
-## 🔥 Usage
+## ⚡️ Usage
 
 Add a bot as a member to your group or chat
 After that, select the message from which you want to make a quote, click reply to it and send the /c command
@@ -65,7 +65,7 @@ If you don't succeed in granting rights to a bot, the easiest option is to give 
 
 <hr/>
 
-## ☎️ Contact with me
+## 📞 Contact with me
 
 <br>
 <a target="_blank" href="https://t.me/fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/TELEGRAM.svg"></img></a>
