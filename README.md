@@ -28,7 +28,7 @@ Automatically install through requirments.txt file
  ```sh
 pip install -r requirements.txt
  ```
-Install everything manually:
+Or if it's more convenient for you, you can install everything manually:
  ```sh
 pip install aiogram==2.25.1
 pip install aiofiles==23.2.1
