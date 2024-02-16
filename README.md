@@ -22,8 +22,13 @@ You need to press "reply" to the desired message and send it with the text "/c" 
 
 ## 🧧 Getting Started
 
-1. Install the libraries and module you need
+1. Install the necessary libraries, modules, and other project dependencies
 
+Automatically install through requirments.txt file
+ ```sh
+pip install -r requirements.txt
+ ```
+Install everything manually:
  ```sh
 pip install aiogram==2.25.1
 pip install aiofiles==23.2.1
@@ -39,4 +44,4 @@ BOT_TOKEN='your token her'
  ```sh
 admins = [your telegram id here]
  ```
-
+4. Finish. Run the bot, the file that starts it bot.py
