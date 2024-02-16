@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/FixerBlur/PenPen-QuoteBot">
-    <img src="file_readme/background.jpg" alt="Logo">
+    <img src="/file_readme/bg1.jpg" alt="Logo">
   </a>
 
 <h3 align="center">🐧PenPen</h3>
