@@ -64,3 +64,15 @@ If you don't succeed in granting rights to a bot, the easiest option is to give 
 > You can grant rights by right-clicking on the user (bot), then restrict the user and there should be checkboxes related to sending messages and media
 
 <hr/>
+
+## ☎️ Contact with me
+
+<br>
+<a target="_blank" href="https://t.me/fixerblur"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/TELEGRAM.svg"></img></a>
+<a target="_blank" href="mailto:fixerblur@outlook.com"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/OUTLOOK.svg"></img></a>
+<a target="_blank" href="https://twitter.com/fixerblurGG"><img src="https://github.com/FixerBlur/FixerBlur/blob/main/assets/icon/X.svg"></img></a>
+
+<br>
+
+## 🍩 Support
+You can support me financially, I will be very grateful!
