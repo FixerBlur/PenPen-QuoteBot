@@ -8,7 +8,7 @@
   <p align="center">
     Your favorite quote in photo
  <br />
-    <a href="[https://github.com/okineadev/neko-chan-bot/issues](https://t.me/fixerphoto_bot)">Link to the original bot</a>
+    <a href="https://t.me/fixerphoto_bot">Link to the original bot</a>
   </p>
 </div>
 
