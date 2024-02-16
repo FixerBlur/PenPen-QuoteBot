@@ -20,7 +20,7 @@ You need to press "reply" to the desired message and send it with the text "/c" 
 
 <hr>
 
-## 🧧 Getting Started
+## 🧧 Initial Setup
 
 1. Install the necessary libraries, modules, and other project dependencies
 
@@ -44,4 +44,3 @@ BOT_TOKEN='your token her'
  ```sh
 admins = [your telegram id here]
  ```
-4. Finish. Run the bot, the file that starts it bot.py
